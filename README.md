@@ -3,7 +3,7 @@
 
 
 <div aling="center">
-  You can find me 🌎 
+  <h3>You can find me 🌎 </h3>
 </div>
 <div align="center">
   <a href="https://twitter.com/leofrp"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white" alt="logo_twitter"/></a>
