@@ -9,6 +9,8 @@ You can find me 🌎 :
 <a href="https://www.instagram.com/dev.leofrp/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofrp5)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **leonardofrp5/leonardofrp5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
