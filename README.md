@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Leonardo 👋 👨‍💻
+
+![js](https://user-images.githubusercontent.com/25190979/116166973-de669e00-a6c4-11eb-851e-94e9de726b20.gif)
+
+You can find me 🌎 :
+
+<a href="https://twitter.com/leofrp"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/leonardo-fabian-romero-perez-516479168/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/dev.leofrp/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+
 
 <!--
 **leonardofrp5/leonardofrp5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
