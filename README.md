@@ -8,8 +8,18 @@
   <a href="https://www.instagram.com/dev.leofrp/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white" alt="logo_instagram"/></a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofrp5)](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about anything, I am happy to help;
+- 🤓 I'm learning about typeScript
+- 📝 [Resume](https://drive.google.com/file/d/12ilj8WDX4tpZJc7W6_vzrtBgIOUf_-KP/view?usp=sharing)
 
+### Languages and Frameworks
+comming soon 
+
+<br />
+<br />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofrp5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **leonardofrp5/leonardofrp5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
