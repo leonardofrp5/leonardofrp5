@@ -17,7 +17,7 @@ I like to work with people that care more for the people and work together for a
 
 - 💬 Ask me about anything, I am happy to help;
 - 🤓 I'm learning about typeScript
-- 📝 [Resume](https://drive.google.com/file/d/12ilj8WDX4tpZJc7W6_vzrtBgIOUf_-KP/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/drive/folders/1fKfHGXNBts2d3IgVW-_YqnpmY8fygYWG)
 
 ### Languages and Frameworks
 <h3 align="left">Languages and Tools:</h3>
